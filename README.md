@@ -14,4 +14,4 @@ The resume builder consists of user login and sign up wherein the user can enter
 
 Resume builder consists of the following tables in MySQL database for the functioning of the portal. These tables are created using phpMyAdmin and are constantly updated/inserted values using php by the user.
 
-![alt text](https://github.com/abhilashpandurangan/ResumeBuilderApp/blob/master/resumebuilder/db.PNG)
+![alt text](https://github.com/abhilashpandurangan/ResumeBuilderApp/blob/master/resumebuilder/db.JPG)
